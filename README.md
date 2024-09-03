@@ -12,14 +12,4 @@ For this project, I used Kaggle’s Red Wine Quality dataset to build various cl
 10) Sulfates
 11) Alcohol
 
-The objectives of this project are as follows:
-
-To experiment with different classification methods to see which yields the highest accuracy and to determine which features are the most indicative of a good quality wine
-
-
-
-Preparing Data for Modelling
-
-Applying different models
-
-Choosing right model
+The objectives of this project are to experiment with different classification methods to see which yields the highest accuracy and to determine which features are the most indicative of a good quality wine
